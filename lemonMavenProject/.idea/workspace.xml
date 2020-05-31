@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be9c658b-b850-4716-8219-67c21451cc51" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7n5OKWuNcZaQfBjs6MmcIzL3i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api_auto" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\workspace\lemonMavenProject\lib" />
+      <recent name="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\workspace\lemonMavenProject\target" />
+      <recent name="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\workspace\lemonMavenProject\src\main\java\day10" />
+      <recent name="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\workspace\lemonMavenProject\src\main\java\learn" />
+      <recent name="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\workspace\lemonMavenProject\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\workspace\lemonMavenProject" />
+      <recent name="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\workspace\lemonMavenProject\src\main" />
+      <recent name="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\workspace\lemonMavenProject\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RegisterCase">
+    <configuration name="D:/Program Files/JetBrains/IntelliJ IDEA 2019.3.4/workspace/lemonMavenProject/testng1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lemonMavenProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng1.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Program Files/JetBrains/IntelliJ IDEA 2019.3.4/workspace/lemonMavenProject/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lemonMavenProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork1.fTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lemonMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11" />
+      <option name="MAIN_CLASS_NAME" value="day11.HomeWork1" />
+      <option name="METHOD_NAME" value="fTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lemonMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11" />
+      <option name="MAIN_CLASS_NAME" value="day11.HomeWork2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lemonMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day14" />
+      <option name="MAIN_CLASS_NAME" value="day14.RegisterCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegisterCase" />
+        <item itemvalue="TestNG.HomeWork2" />
+        <item itemvalue="TestNG.D:/Program Files/JetBrains/IntelliJ IDEA 2019.3.4/workspace/lemonMavenProject/testng2.xml" />
+        <item itemvalue="TestNG.HomeWork1.fTest" />
+        <item itemvalue="TestNG.D:/Program Files/JetBrains/IntelliJ IDEA 2019.3.4/workspace/lemonMavenProject/testng1.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\123\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be9c658b-b850-4716-8219-67c21451cc51" name="Default Changelist" comment="" />
+      <created>1587991815440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587991815440</updated>
+      <workItem from="1587991818355" duration="2104000" />
+      <workItem from="1588071927211" duration="177000" />
+      <workItem from="1588072203377" duration="6900000" />
+      <workItem from="1588229887404" duration="3066000" />
+      <workItem from="1588384162530" duration="28148000" />
+      <workItem from="1588555805543" duration="16395000" />
+      <workItem from="1588765638728" duration="4676000" />
+      <workItem from="1588778369814" duration="1543000" />
+      <workItem from="1588859501445" duration="4258000" />
+      <workItem from="1589201548348" duration="1448000" />
+      <workItem from="1589291511931" duration="602000" />
+      <workItem from="1589370701565" duration="4174000" />
+      <workItem from="1589462900179" duration="3399000" />
+      <workItem from="1589803092244" duration="1540000" />
+      <workItem from="1590068915831" duration="575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Custom_Plugin_Repositories" timestamp="1588776456378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Custom_Plugin_Repositories/0.0.1366.728@0.0.1366.728" timestamp="1588776456378" />
+    <state x="368" y="9" key="#TestNGTest1" timestamp="1588861418325">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="9" key="#TestNGTest1/0.0.1366.728@0.0.1366.728" timestamp="1588861418325" />
+    <state x="274" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588231222720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588231222720" />
+    <state x="610" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1588575775706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="610" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588575775706" />
+    <state x="570" y="117" key="FileChooserDialogImpl" timestamp="1590068990280">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="570" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590068990280" />
+    <state width="1092" height="259" key="GridCell.Tab.0.bottom" timestamp="1589712729889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1092" height="259" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589712729889" />
+    <state width="1092" height="259" key="GridCell.Tab.0.center" timestamp="1589712729889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1092" height="259" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589712729889" />
+    <state width="1092" height="259" key="GridCell.Tab.0.left" timestamp="1589712729889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1092" height="259" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589712729889" />
+    <state width="1092" height="259" key="GridCell.Tab.0.right" timestamp="1589712729889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1092" height="259" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589712729889" />
+    <state width="887" height="213" key="GridCell.Tab.1.bottom" timestamp="1588576153890">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="887" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588576153890" />
+    <state width="887" height="213" key="GridCell.Tab.1.center" timestamp="1588576153890">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="887" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588576153890" />
+    <state width="887" height="213" key="GridCell.Tab.1.left" timestamp="1588576153890">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="887" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588576153890" />
+    <state width="887" height="213" key="GridCell.Tab.1.right" timestamp="1588576153890">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="887" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588576153890" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1590069061662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590069061662" />
+    <state x="511" y="93" width="582" height="524" key="StructurePopup" timestamp="1589459063721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="511" y="93" width="582" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1589459063721" />
+    <state x="568" y="160" key="run.anything.popup" timestamp="1588562208461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="160" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588562208461" />
+    <state x="468" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589459109579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="468" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589459109579" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lemonMavenProject$Test.ic" NAME="Test Coverage Results" MODIFIED="1588567816211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>FiveOneWork.*</FILTER>
+    </SUITE>
+  </component>
+</project>
